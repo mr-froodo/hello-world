@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hey folks!
+Frodo here. I destroyed the ring.
